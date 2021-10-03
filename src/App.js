@@ -5,10 +5,7 @@ import Home from './Pages/Home/index'
 
 function App() {
   return (
-    <Home>  
-      <header>header</header>
-      <main>main</main>
-      </Home>
+    <Home />
   );
 }
 
